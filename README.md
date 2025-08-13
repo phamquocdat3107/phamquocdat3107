@@ -22,7 +22,7 @@
   - Turning messy data into actionable insights  
 
 - ⚡ **Fun fact**  
-  - I enjoy playing badminton and often join data-related hackathons for fun
+  - I enjoy playing games and often join data-related hackathons for fun
 
 
 ## 🌐 Socials:
